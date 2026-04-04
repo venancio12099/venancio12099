@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hello, I am <a href="https://aristi.dev">Venancio</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/Be5K851.jpeg">
 
-<!--
-**venancio12099/venancio12099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HackTheBox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019d462f-5273-723e-a6b0-56e29773295f)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venancio12099/)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Higher National Diploma Digital Technologies 🎓
+- 🔒 Cybersecurity 🔒
+- 📊 Data Analysis, PowerBI 📊
+  
