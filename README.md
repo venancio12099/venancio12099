@@ -8,7 +8,7 @@
 
 ## About Me
 
-IT Techncian with BTCE Higher National Diploma in Digital Technologies.
+IT Technician with BTEC Higher National Diploma in Digital Technologies.
 
 Driven by curiosity and a genuine interest in how systems work.
 
